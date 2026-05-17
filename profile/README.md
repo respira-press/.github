@@ -54,7 +54,7 @@ Top AI clients by event volume: Claude Code (86%), Cursor (6%), Codex (5%), Clau
 
 ## Built by
 
-Respira is built and maintained by [@webmyc](https://github.com/webmyc) (Mihai Dragomirescu), solo founder, based in Brașov, Romania. Independent. Not VC-backed. Not acquired.
+Respira is built and maintained by [@webmyc](https://github.com/webmyc) (Mihai Dragomirescu), solo founder, based in Brașov, Romania.
 
 ## Links
 
