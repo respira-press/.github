@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/respira-press/.github/main/profile/cover.png?v=2" alt="Respira for WordPress" width="100%" />
 </p>
 
-# Respira
+# [Respira for WordPress](https://respira.press)
 
 The independent AI infrastructure layer for WordPress. Open-source tooling that lets AI coding agents safely edit live sites across 12 page builders, plus a free plugin in the WordPress.org pipeline.
 
