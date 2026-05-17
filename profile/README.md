@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://respira.press/logos/respira-logo-512.png" alt="Respira" width="140" />
+  <img src="profile/cover.png" alt="Respira for WordPress" width="100%" />
 </p>
 
 # Respira
