@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/respira-press/.github/main/profile/cover.png?v=4" alt="Respira for WordPress" width="100%" />
+  <img src="https://raw.githubusercontent.com/respira-press/.github/main/profile/cover.png?v=1779020245" alt="Respira for WordPress" width="100%" />
 </p>
 
 # [Respira for WordPress](https://respira.press)
