@@ -65,4 +65,8 @@ Respira is built and maintained by [@webmyc](https://github.com/webmyc) (Mihai D
 - LinkedIn: [showcase](https://www.linkedin.com/showcase/respira-press/)
 - Email: mihai@respira.press
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/respira-press/.github/main/profile/storefront.jpg" alt="Respira for WordPress storefront, illustrated" width="100%" />
+</p>
+
 *One breath. AI infrastructure for WordPress.*
